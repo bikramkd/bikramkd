@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bikram Kumar Das
 - 👀 I’m interested in next generation sequencing and bioinformatics.
-- 🌱 I’m currently learning single-cell RNA sequencing data analysis.
-- 💞️ I’m looking to collaborate on any NGS related data analysis.
-- 📫 How to reach me: email me at bikram.das@sdstate.edu and briefly highlight how you wish to collaborate in the subject.
+- 🌱 I’m currently learning single-cell RNA sequencing and data analysis.
+- 💞️ I’m looking to collaborate on any NGS related work.
+- 📫 How to reach me: email me at bikram.das@sdstate.edu.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a good listener.
 
